@@ -1,2 +1,2 @@
-# Quadratic-equation
+# Quadratic
 A simple Quadratic equation solver.
