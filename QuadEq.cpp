@@ -80,7 +80,7 @@ int main() {
         HANDLE hstdin  = GetStdHandle( STD_INPUT_HANDLE  );
 	HANDLE hstdout = GetStdHandle( STD_OUTPUT_HANDLE );
 
-        cout<<" \n Type in the numerical coefficients of the quadratic equation (ax^2 + bx + c = 0): "<<endl; 
+        cout<<" \n Enter the numerical coefficient of each term in the quadratic expression:"<<endl; 
         SetConsoleTextAttribute( hstdout, 0x0C );
 
         tie(a, b, c) = prob.get_coefficients();
