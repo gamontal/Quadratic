@@ -1,3 +1,4 @@
+// Copyright <Gabriel M.R.>
   //
  // Quadratic Equation - C++ Implementation
 //
